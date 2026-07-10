@@ -1,0 +1,51 @@
+{
+	"version": "2",
+	"author": "Hamsi Buğlama",
+	"authorURL": "https://github.com/karsontr13",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "v1.0.0",
+			"name": "SeamlessInteriors",
+			"displayName": "The Long Dark - Seamless Interiors",
+			"author": "Hamsi Buğlama",
+			"previousAuthors": "",
+			"released": "2026-07-10",
+			"updated": "2026-07-10",
+			"downloadURL": "https://github.com/karsontr13/TLD-Seamless-Interiors/releases/download/v1.0.0/SeamlessInteriors.dll",
+			"modURL": "https://github.com/karsontr13/TLD-Seamless-Interiors",
+			"description": "A massive overhaul mod developed for The Long Dark that aims to integrate all interior buildings directly into the open world without any loading screens. Walk through doors seamlessly and 						experience the interior and exterior as one unified environment.",
+			"tags": "seamless overhaul immersion",
+			"categories": [
+				"Quality of Life",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://imgur.com/a/DPhrfU5"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "Initial Release",
+				"notes": "This project is in active development. Currently, only the camp office is included. \n\nThis mod is in a very early stage of development. Even with testing, it may contain undiscovered bugs. Do 					  not use this with your primary/main save files. Please consider the risks before installing.\n\nThere is a high risk of conflict with other mods that modify the structure or interior of    						  buildings. This has not been tested with other custom interior mods yet.",
+				"issues": "When entering and exiting a real interior space, the fires and food being cooked over them (only in scenes filmed for the outside world) disappear, and a duplicate of the charcoal retrieval 					  feature after the fire goes out remains."
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		}
+	]
+}
