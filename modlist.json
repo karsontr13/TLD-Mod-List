@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.1.0",
+			"version": "2.1.1",
 			"name": "SeamlessInteriors",
 			"displayName": "Seamless Interiors",
 			"author": "Hamsi Buglama",
 			"previousAuthors": "",
 			"released": "2026-07-10",
-			"updated": "2026-09-10",
-			"downloadURL": "https://github.com/karsontr13/TLD-Seamless-Interiors/releases/download/v2.1.0/SeamlessInteriors.dll",
+			"updated": "2026-09-13",
+			"downloadURL": "https://github.com/karsontr13/TLD-Seamless-Interiors/releases/download/v2.1.1/SeamlessInteriors.dll",
 			"modURL": "https://github.com/karsontr13/TLD-Seamless-Interiors",
 			"description": "A massive overhaul mod developed for The Long Dark that aims to integrate all interior buildings directly into the open world without any loading screens. Walk through doors seamlessly and experience the interior and exterior as one unified environment.",
 			"tags": "seamless overhaul immersion",
