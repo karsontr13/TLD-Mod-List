@@ -66,9 +66,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [
-				""
-			],
+			"images": [],
 			"dependencies": [],
 			"status": {
 				"working": true,
