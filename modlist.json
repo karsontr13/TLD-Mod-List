@@ -108,7 +108,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/karsontr13/Steam-Railway/blob/main/CoverImage.png"
+				"https://raw.githubusercontent.com/karsontr13/Steam-Railway/main/CoverImage.png"
 			],
 			"dependencies": [
 				"ModSettings",
